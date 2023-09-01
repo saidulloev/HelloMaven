@@ -1,2 +1,2 @@
 # HelloMaven
-Spring - spring framework
+Java Spring - spring framework
